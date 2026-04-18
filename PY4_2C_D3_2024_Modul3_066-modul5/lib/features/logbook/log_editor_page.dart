@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_markdown/flutter_markdown.dart';
-import 'package:py4_2c_d3_2024_modul1_066/features/logbook/models/log_model.dart';
-import 'package:py4_2c_d3_2024_modul1_066/features/logbook/log_controller.dart';
+import 'package:pcd/features/logbook/models/log_model.dart';
+import 'package:pcd/features/logbook/log_controller.dart';
 
 class LogEditorPage extends StatefulWidget {
   final LogModel? log;

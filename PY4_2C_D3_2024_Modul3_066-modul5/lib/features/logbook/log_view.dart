@@ -2,11 +2,11 @@ import 'package:flutter/material.dart';
 import 'package:intl/intl.dart';
 import 'dart:async';
 import 'package:intl/date_symbol_data_local.dart';
-import 'package:py4_2c_d3_2024_modul1_066/features/logbook/log_controller.dart';
-import 'package:py4_2c_d3_2024_modul1_066/features/logbook/models/log_model.dart';
-import 'package:py4_2c_d3_2024_modul1_066/services/access_control_service.dart';
-import 'package:py4_2c_d3_2024_modul1_066/features/logbook/log_editor_page.dart';
-import 'package:py4_2c_d3_2024_modul1_066/features/auth/login_view.dart';
+import 'package:pcd/features/logbook/log_controller.dart';
+import 'package:pcd/features/logbook/models/log_model.dart';
+import 'package:pcd/services/access_control_service.dart';
+import 'package:pcd/features/logbook/log_editor_page.dart';
+import 'package:pcd/features/auth/login_view.dart';
 import 'package:connectivity_plus/connectivity_plus.dart';
 import 'package:flutter_markdown/flutter_markdown.dart';
 

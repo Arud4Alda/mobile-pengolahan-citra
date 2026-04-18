@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
-import 'package:py4_2c_d3_2024_modul1_066/features/onboarding/onboarding_view.dart';
+import 'package:pcd/features/onboarding/onboarding_view.dart';
 import 'package:flutter_dotenv/flutter_dotenv.dart';
-import 'package:py4_2c_d3_2024_modul1_066/services/mongo_service.dart';
+import 'package:pcd/services/mongo_service.dart';
 import 'package:hive_flutter/hive_flutter.dart';
-import 'package:py4_2c_d3_2024_modul1_066/features/logbook/models/log_model.dart';
+import 'package:pcd/features/logbook/models/log_model.dart';
 
 void main() async{
   WidgetsFlutterBinding.ensureInitialized();

@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:py4_2c_d3_2024_modul1_066/features/auth/login_controller.dart';
-import 'package:py4_2c_d3_2024_modul1_066/features/logbook/log_view.dart';
+import 'package:pcd/features/auth/login_controller.dart';
+import 'package:pcd/features/logbook/log_view.dart';
 
 class LoginView extends StatefulWidget {
   const LoginView({super.key});

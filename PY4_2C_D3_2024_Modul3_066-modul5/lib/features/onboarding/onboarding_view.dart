@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:py4_2c_d3_2024_modul1_066/features/auth/login_view.dart';
+import 'package:pcd/features/auth/login_view.dart';
 
 class OnboardingView extends StatefulWidget {
   const OnboardingView({super.key});

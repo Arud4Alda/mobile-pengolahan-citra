@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:py4_2c_d3_2024_modul1_066/features/logbook/models/log_model.dart';
-import 'package:py4_2c_d3_2024_modul1_066/services/mongo_service.dart';
+import 'package:pcd/features/logbook/models/log_model.dart';
+import 'package:pcd/services/mongo_service.dart';
 import 'package:mongo_dart/mongo_dart.dart';
-import 'package:py4_2c_d3_2024_modul1_066/helpers/log_helper.dart';
+import 'package:pcd/helpers/log_helper.dart';
 import 'package:hive/hive.dart' as hive;
 
 class LogController {
